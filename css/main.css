@@ -16,6 +16,12 @@ header img{
     border: 20px rgb(51, 51, 31);
 }
 
+.ty{
+    border-radius: 170px;
+    width: 300px;
+    border: 20px rgb(51, 51, 31);
+}
+
 main{
     max-width: 800px;
     margin: 0 auto;
